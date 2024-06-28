@@ -1,2 +1,43 @@
-# Excel-Project-Sales-and-Finance-Analytics
-This project provides a comprehensive set of Excel reports for sales and finance analysis of AtliQ Hardware, a leading hardware supplier. The reports cover a three-year period (2019-2021) and offer insights into customer behavior, market performance, product sales trends, and financial health.
+# **<ins>Excel Project- Sales and Finance Analytics</ins>** #
+
+This project demonstrates the application of Excel for sales and finance analysis in a business context, specifically for AtliQ Hardware, a company selling hardware products like PCs, peripherals, and network devices globally.
+
+## **<ins>Project Objectives</ins>** ##
+  + Analyze sales performance across various dimensions (year, country, product, division)
+  + Compare market performance to predefined sales targets
+  +	Generate insights into customer behavior and market trends
+  +	Evaluate AtliQ Hardware's financial health through Profit and Loss (P&L) statements
+  +	Support informed decision-making through data-driven analysis
+
+## **<ins>Reports Generated</ins>** ##
+
+### **<ins>Sales Reports</ins> :-** ###
+  1.	**<ins>Customer Performance Report</ins> :-** Analyzes key customer metrics like acquisition rates, retention rates, and average purchase values to understand customer behavior patterns and preferences.[Customer Net Sales Performance.pdf](https://github.com/user-attachments/files/16030747/Customer.Net.Sales.Performance.pdf)
+  2.	**<ins>Market Performance vs. Targets</ins> :-** Compares actual sales figures with set targets for different market segments to identify areas for improvement and capitalize on growth opportunities.[Market Performance Vs Target.pdf](https://github.com/user-attachments/files/16030751/Market.Performance.Vs.Target.pdf)
+  3.	**<ins>Top 10 Products</ins> :-** Identifies the top-selling products based on sales metrics.[Top 10 Products.pdf](https://github.com/user-attachments/files/16030758/Top.10.Products.pdf)
+  4.	**<ins>Division-Level Report</ins> :-** Provides insights into the contribution of each product division to overall sales.[Division level Report.pdf](https://github.com/user-attachments/files/16030749/Division.level.Report.pdf)
+  5.	**<ins>Top & Bottom 5 Products by Quantity</ins> :-** Helps identify products with high and low sales volume, enabling informed inventory management and sales optimization strategies.[Top and Bottom 5 Products order by Qty.pdf](https://github.com/user-attachments/files/16030759/Top.and.Bottom.5.Products.order.by.Qty.pdf)
+  6.	**<ins>New Products by 2021</ins> :-** Analyzes the performance of new products launched in 2021 to assess market response and sales trends.[New Products 2021.pdf](https://github.com/user-attachments/files/16030752/New.Products.2021.pdf)
+  7.	**<ins>Top 5 Countries by 2021</ins> :-** Identifies the top-contributing countries to sales in 2021, providing a geographical perspective of sales distribution.[Top 5 Countries in 2021.pdf](https://github.com/user-attachments/files/16030756/Top.5.Countries.in.2021.pdf)
+
+### **<ins>Finance Reports</ins> :-** ###
+  1.	**<ins>P&L by Fiscal Year</ins> :-** Provides year-over-year comparisons of financial performance through P&L statements for each fiscal year.[P & L By Fiscal Year.pdf](https://github.com/user-attachments/files/16030754/P.L.By.Fiscal.Year.pdf)
+  2.	**<ins>P&L by Month</ins> :-** Offers a detailed monthly breakdown of P&L statements for each fiscal year, enabling identification of seasonal trends.[P & L By Fiscal Month.pdf](https://github.com/user-attachments/files/16030753/P.L.By.Fiscal.Month.pdf)
+  3.	**<ins>P&L by Market</ins> :-** Presents P&L statements segmented by different markets to understand the financial performance of specific regions.[P & L For Markets.pdf](https://github.com/user-attachments/files/16030755/P.L.For.Markets.pdf)
+  4.	**<ins>Gross Margin% by Quarters (Sub-zone)</ins> :-** Analyzes the profitability trend and identifies areas for improvement by examining Gross Margin percentages across quarters, broken down into sub-zones.[GM% by Quarters (sub_zone).pdf](https://github.com/user-attachments/files/16030750/GM.by.Quarters.sub_zone.pdf)
+
+## **<ins>Key Skills and Techniques Used</ins>** ##
+  + **<ins>Excel Formulas</ins> :-** Basic and advanced formulas like SUM, IF, SUMIF, CALCULATE, DIVIDE, IFERROR, VLOOKUP, XLOOKUP, and INDEX MATCH.
+  + **<ins>Data Handling and Cleaning</ins> :-** Utilizing tables, filters, sort features, conditional formatting, and Power Query for advanced cleaning and merging.
+  + **<ins>Data Visualization</ins> :-** Creating dynamic charts and pivot tables for effective data presentation. Power Pivot is used for advanced data modeling.
+  + **<ins>Business Metrics Analysis</ins> :-** Analyzing critical metrics like P&L statements, COGS, Gross Margin, and Gross Margin %.
+  + **<ins>Advanced Excel Tools</ins> :-** 
+    - **<ins>Power Query</ins> :-** Used for data cleaning, merging, and transformation.
+    - **<ins>ETL Processes</ins> :-** Implementing Extract, Transform, Load (ETL) processes to integrate and transform data efficiently.
+    - **<ins>M Language</ins> :-** Used in Power Query for complex data transformation tasks.
+    - **<ins>DAX Queries</ins> :-** Utilizing Data Analysis Expressions for complex query filters and creating reports based on stakeholder needs.
+    - **<ins>Power Pivot</ins> :-** Creating data models and relationships between datasets to facilitate in-depth data analysis and reporting.
+
+
+This project showcases the power of Excel for sales and finance analysis, empowering businesses with data-driven insights to optimize performance and make strategic decisions.
+
