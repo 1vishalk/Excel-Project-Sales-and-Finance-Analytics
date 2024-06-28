@@ -12,7 +12,7 @@ This project demonstrates the application of Excel for sales and finance analysi
 ## **<ins>Reports Generated</ins>** ##
 
 ### **<ins>Sales Reports</ins> :-** ###
-  1.	**<ins>Customer Performance Report</ins> :-** Analyzes key customer metrics like acquisition rates, retention rates, and average purchase values to understand customer behavior patterns and preferences.[Customer Net Sales Performance.pdf](https://github.com/user-attachments/files/16030747/Customer.Net.Sales.Performance.pdf)
+  1.	**<ins>Customer Net Sales Performance Report</ins> :-** Analyzes key customer metrics like acquisition rates, retention rates, and average purchase values to understand customer behavior patterns and preferences.[Customer Net Sales Performance.pdf](https://github.com/user-attachments/files/16030747/Customer.Net.Sales.Performance.pdf)
   2.	**<ins>Market Performance vs. Targets</ins> :-** Compares actual sales figures with set targets for different market segments to identify areas for improvement and capitalize on growth opportunities.[Market Performance Vs Target.pdf](https://github.com/user-attachments/files/16030751/Market.Performance.Vs.Target.pdf)
   3.	**<ins>Top 10 Products</ins> :-** Identifies the top-selling products based on sales metrics.[Top 10 Products.pdf](https://github.com/user-attachments/files/16030758/Top.10.Products.pdf)
   4.	**<ins>Division-Level Report</ins> :-** Provides insights into the contribution of each product division to overall sales.[Division level Report.pdf](https://github.com/user-attachments/files/16030749/Division.level.Report.pdf)
@@ -22,7 +22,7 @@ This project demonstrates the application of Excel for sales and finance analysi
 
 ### **<ins>Finance Reports</ins> :-** ###
   1.	**<ins>P&L by Fiscal Year</ins> :-** Provides year-over-year comparisons of financial performance through P&L statements for each fiscal year.[P & L By Fiscal Year.pdf](https://github.com/user-attachments/files/16030754/P.L.By.Fiscal.Year.pdf)
-  2.	**<ins>P&L by Month</ins> :-** Offers a detailed monthly breakdown of P&L statements for each fiscal year, enabling identification of seasonal trends.[P & L By Fiscal Month.pdf](https://github.com/user-attachments/files/16030753/P.L.By.Fiscal.Month.pdf)
+  2.	**<ins>P&L by Fiscal Month</ins> :-** Offers a detailed monthly breakdown of P&L statements for each fiscal year, enabling identification of seasonal trends.[P & L By Fiscal Month.pdf](https://github.com/user-attachments/files/16030753/P.L.By.Fiscal.Month.pdf)
   3.	**<ins>P&L by Market</ins> :-** Presents P&L statements segmented by different markets to understand the financial performance of specific regions.[P & L For Markets.pdf](https://github.com/user-attachments/files/16030755/P.L.For.Markets.pdf)
   4.	**<ins>Gross Margin% by Quarters (Sub-zone)</ins> :-** Analyzes the profitability trend and identifies areas for improvement by examining Gross Margin percentages across quarters, broken down into sub-zones.[GM% by Quarters (sub_zone).pdf](https://github.com/user-attachments/files/16030750/GM.by.Quarters.sub_zone.pdf)
 
