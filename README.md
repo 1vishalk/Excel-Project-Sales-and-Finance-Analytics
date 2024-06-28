@@ -12,7 +12,7 @@ This project demonstrates the application of Excel for sales and finance analysi
 ## **<ins>Reports Generated</ins>** ##
 
 ### **<ins>Sales Reports</ins> :-** ###
-  1.	**<ins>Customer Net Sales Performance Report</ins> :-** Analyzes key customer metrics like acquisition rates, retention rates, and average purchase values to understand customer behavior patterns and preferences.[Customer Net Sales Performance.pdf](https://github.com/user-attachments/files/16030747/Customer.Net.Sales.Performance.pdf)
+  1.	**<ins>Customer Net Sales Performance Report</ins> :-** Analyzes key customer metrics like acquisition rates, retention rates, and average purchase values to understand customer behavior patterns and preferences.[Customer Net Sales Performance.pdf](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/Customer%20Net%20Sales%20Performance.pdf)
   2.	**<ins>Market Performance vs. Targets</ins> :-** Compares actual sales figures with set targets for different market segments to identify areas for improvement and capitalize on growth opportunities.[Market Performance Vs Target.pdf](https://github.com/user-attachments/files/16030751/Market.Performance.Vs.Target.pdf)
   3.	**<ins>Top 10 Products</ins> :-** Identifies the top-selling products based on sales metrics.[Top 10 Products.pdf](https://github.com/user-attachments/files/16030758/Top.10.Products.pdf)
   4.	**<ins>Division-Level Report</ins> :-** Provides insights into the contribution of each product division to overall sales.[Division level Report.pdf](https://github.com/user-attachments/files/16030749/Division.level.Report.pdf)
