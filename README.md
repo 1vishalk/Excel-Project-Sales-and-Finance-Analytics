@@ -14,17 +14,17 @@ This project demonstrates the application of Excel for sales and finance analysi
 ### **<ins>Sales Reports</ins> :-** ###
   1.	**<ins>Customer Net Sales Performance Report</ins> :-** Analyzes key customer metrics like acquisition rates, retention rates, and average purchase values to understand customer behavior patterns and preferences.[Customer Net Sales Performance.pdf](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/Customer%20Net%20Sales%20Performance.pdf)
   2.	**<ins>Market Performance vs. Targets</ins> :-** Compares actual sales figures with set targets for different market segments to identify areas for improvement and capitalize on growth opportunities.[Market Performance Vs Target.pdf](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf)
-  3.	**<ins>Top 10 Products</ins> :-** Identifies the top-selling products based on sales metrics.[Top 10 Products.pdf](https://github.com/user-attachments/files/16030758/Top.10.Products.pdf)
-  4.	**<ins>Division-Level Report</ins> :-** Provides insights into the contribution of each product division to overall sales.[Division level Report.pdf](https://github.com/user-attachments/files/16030749/Division.level.Report.pdf)
-  5.	**<ins>Top & Bottom 5 Products by Quantity</ins> :-** Helps identify products with high and low sales volume, enabling informed inventory management and sales optimization strategies.[Top and Bottom 5 Products order by Qty.pdf](https://github.com/user-attachments/files/16030759/Top.and.Bottom.5.Products.order.by.Qty.pdf)
-  6.	**<ins>New Products by 2021</ins> :-** Analyzes the performance of new products launched in 2021 to assess market response and sales trends.[New Products 2021.pdf](https://github.com/user-attachments/files/16030752/New.Products.2021.pdf)
-  7.	**<ins>Top 5 Countries by 2021</ins> :-** Identifies the top-contributing countries to sales in 2021, providing a geographical perspective of sales distribution.[Top 5 Countries in 2021.pdf](https://github.com/user-attachments/files/16030756/Top.5.Countries.in.2021.pdf)
+  3.	**<ins>Top 10 Products</ins> :-** Identifies the top-selling products based on sales metrics.[Top 10 Products.pdf](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/Top%2010%20Products.pdf)
+  4.	**<ins>Division-Level Report</ins> :-** Provides insights into the contribution of each product division to overall sales.[Division level Report.pdf](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/Division%20level%20Report.pdf)
+  5.	**<ins>Top & Bottom 5 Products by Quantity</ins> :-** Helps identify products with high and low sales volume, enabling informed inventory management and sales optimization strategies.[Top and Bottom 5 Products order by Qty.pdf]
+  6.	**<ins>New Products by 2021</ins> :-** Analyzes the performance of new products launched in 2021 to assess market response and sales trends.[New Products 2021.pdf]
+  7.	**<ins>Top 5 Countries by 2021</ins> :-** Identifies the top-contributing countries to sales in 2021, providing a geographical perspective of sales distribution.[Top 5 Countries in 2021.pdf]
 
 ### **<ins>Finance Reports</ins> :-** ###
-  1.	**<ins>P&L by Fiscal Year</ins> :-** Provides year-over-year comparisons of financial performance through P&L statements for each fiscal year.[P & L By Fiscal Year.pdf](https://github.com/user-attachments/files/16030754/P.L.By.Fiscal.Year.pdf)
-  2.	**<ins>P&L by Fiscal Month</ins> :-** Offers a detailed monthly breakdown of P&L statements for each fiscal year, enabling identification of seasonal trends.[P & L By Fiscal Month.pdf](https://github.com/user-attachments/files/16030753/P.L.By.Fiscal.Month.pdf)
-  3.	**<ins>P&L by Market</ins> :-** Presents P&L statements segmented by different markets to understand the financial performance of specific regions.[P & L For Markets.pdf](https://github.com/user-attachments/files/16030755/P.L.For.Markets.pdf)
-  4.	**<ins>Gross Margin% by Quarters (Sub-zone)</ins> :-** Analyzes the profitability trend and identifies areas for improvement by examining Gross Margin percentages across quarters, broken down into sub-zones.[GM% by Quarters (sub_zone).pdf](https://github.com/user-attachments/files/16030750/GM.by.Quarters.sub_zone.pdf)
+  1.	**<ins>P&L by Fiscal Year</ins> :-** Provides year-over-year comparisons of financial performance through P&L statements for each fiscal year.[P & L By Fiscal Year.pdf]
+  2.	**<ins>P&L by Fiscal Month</ins> :-** Offers a detailed monthly breakdown of P&L statements for each fiscal year, enabling identification of seasonal trends.[P & L By Fiscal Month.pdf]
+  3.	**<ins>P&L by Market</ins> :-** Presents P&L statements segmented by different markets to understand the financial performance of specific regions.[P & L For Markets.pdf]
+  4.	**<ins>Gross Margin% by Quarters (Sub-zone)</ins> :-** Analyzes the profitability trend and identifies areas for improvement by examining Gross Margin percentages across quarters, broken down into sub-zones.[GM% by Quarters (sub_zone).pdf]
 
 ## **<ins>Key Skills and Techniques Used</ins>** ##
   + **<ins>Excel Formulas</ins> :-** Basic and advanced formulas like SUM, IF, SUMIF, CALCULATE, DIVIDE, IFERROR, VLOOKUP, XLOOKUP, and INDEX MATCH.
