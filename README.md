@@ -21,10 +21,10 @@ This project demonstrates the application of Excel for sales and finance analysi
   7.	**<ins>Top 5 Countries by 2021</ins> :-** Identifies the top-contributing countries to sales in 2021, providing a geographical perspective of sales distribution.[Top 5 Countries in 2021.pdf](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/Top%205%20Countries%20in%202021.pdf)
 
 ### **<ins>Finance Reports</ins> :-** ###
-  1.	**<ins>P&L by Fiscal Year</ins> :-** Provides year-over-year comparisons of financial performance through P&L statements for each fiscal year.[P & L By Fiscal Year.pdf]
-  2.	**<ins>P&L by Fiscal Month</ins> :-** Offers a detailed monthly breakdown of P&L statements for each fiscal year, enabling identification of seasonal trends.[P & L By Fiscal Month.pdf]
-  3.	**<ins>P&L by Market</ins> :-** Presents P&L statements segmented by different markets to understand the financial performance of specific regions.[P & L For Markets.pdf]
-  4.	**<ins>Gross Margin% by Quarters (Sub-zone)</ins> :-** Analyzes the profitability trend and identifies areas for improvement by examining Gross Margin percentages across quarters, broken down into sub-zones.[GM% by Quarters (sub_zone).pdf]
+  1.	**<ins>P&L by Fiscal Year</ins> :-** Provides year-over-year comparisons of financial performance through P&L statements for each fiscal year.[P & L By Fiscal Year.pdf](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Year.pdf)
+  2.	**<ins>P&L by Fiscal Month</ins> :-** Offers a detailed monthly breakdown of P&L statements for each fiscal year, enabling identification of seasonal trends.[P & L By Fiscal Month.pdf](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Month.pdf)
+  3.	**<ins>P&L by Market</ins> :-** Presents P&L statements segmented by different markets to understand the financial performance of specific regions.[P & L For Markets.pdf](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20For%20Markets.pdf)
+  4.	**<ins>Gross Margin% by Quarters (Sub-zone)</ins> :-** Analyzes the profitability trend and identifies areas for improvement by examining Gross Margin percentages across quarters, broken down into sub-zones.[GM% by Quarters (sub_zone).pdf](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/GM%25%20by%20Quarters%20(sub_zone).pdf)
 
 ## **<ins>Key Skills and Techniques Used</ins>** ##
   + **<ins>Excel Formulas</ins> :-** Basic and advanced formulas like SUM, IF, SUMIF, CALCULATE, DIVIDE, IFERROR, VLOOKUP, XLOOKUP, and INDEX MATCH.
