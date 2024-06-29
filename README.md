@@ -1,6 +1,7 @@
 # **<ins>Excel Project- Sales and Finance Analytics</ins>** #
 
-This project demonstrates the application of Excel for sales and finance analysis in a business context, specifically for AtliQ Hardware, a company selling hardware products like PCs, peripherals, and network devices globally.
+This project provides a comprehensive set of Excel reports for sales and finance analysis of AtliQ Hardware, a leading hardware supplier. The reports cover a three-year period (2019-2021) and offer insights into customer behavior, market performance, product sales trends, and financial health.
+
 
 ## **<ins>Project Objectives</ins>** ##
   + Analyze sales performance across various dimensions (year, country, product, division)
