@@ -30,7 +30,6 @@ This project provides a comprehensive set of Excel reports for sales and finance
 ## **<ins>Key Skills and Techniques Used</ins>** ##
   + **<ins>Excel Formulas</ins> :-** Basic and advanced formulas like SUM, IF, SUMIF, CALCULATE, DIVIDE, IFERROR, VLOOKUP, XLOOKUP, and INDEX MATCH.
   + **<ins>Data Handling and Cleaning</ins> :-** Utilizing tables, filters, sort features, conditional formatting, and Power Query for advanced cleaning and merging.
-  + **<ins>Data Visualization</ins> :-** Creating dynamic charts and pivot tables for effective data presentation. Power Pivot is used for advanced data modeling.
   + **<ins>Business Metrics Analysis</ins> :-** Analyzing critical metrics like P&L statements, COGS, Gross Margin, and Gross Margin %.
   + **<ins>Advanced Excel Tools</ins> :-** 
     - **<ins>Power Query</ins> :-** Used for data cleaning, merging, and transformation.
