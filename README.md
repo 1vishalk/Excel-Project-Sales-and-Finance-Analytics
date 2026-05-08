@@ -28,17 +28,17 @@ All reports were built entirely in Excel using Power Query for data cleaning, Po
 
 | Report | Description |
 |---|---|
-| **Customer Net Sales Performance** | Net sales by customer for FY2019, FY2020, FY2021 with year-over-year growth % |
-| **Division Level Report** | Net sales and growth % broken down by product division |
-| **GM% by Quarters (Sub-zone)** | Gross margin % tracked quarter by quarter across geographic sub-zones |
-| **Market Performance vs Target** | Actual sales vs set targets by market — showing over/under performance |
-| **P&L by Fiscal Year** | Full profit & loss statement across FY2019–2021 — net sales, COGS, gross margin |
-| **P&L by Markets** | P&L broken down by individual market for a single fiscal year |
-| **P&L by Months** | Monthly P&L view showing seasonal patterns in revenue and margin |
-| **Top & Bottom 5 Products** | Ranked by quantity sold — identifying best and worst performing SKUs |
-| **Top 5 Countries** | Net sales by country for FY2021 |
-| **Top 10 Products** | Products with highest growth in net sales from FY2020 to FY2021 |
-| **New Products — FY2021** | Products launched in 2021 and their net sales performance |
+| **[Customer Net Sales Performance](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/Customer%20Net%20Sales%20Performance.pdf)** | Net sales by customer for FY2019, FY2020, FY2021 with year-over-year growth % |
+| **[Division Level Report](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/Division%20level%20Report.pdf)** | Net sales and growth % broken down by product division |
+| **[GM% by Quarters](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/GM%25%20by%20Quarters%20(sub_zone).pdf) (Sub-zone)** | Gross margin % tracked quarter by quarter across geographic sub-zones |
+| **[Market Performance vs Target](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf)** | Actual sales vs set targets by market — showing over/under performance |
+| **[P&L by Fiscal Year](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Year.pdf)** | Full profit & loss statement across FY2019–2021 — net sales, COGS, gross margin |
+| **[P&L by Markets](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20For%20Markets.pdf)** | P&L broken down by individual market for a single fiscal year |
+| **[P&L by Months](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Month.pdf)** | Monthly P&L view showing seasonal patterns in revenue and margin |
+| **[Top & Bottom 5 Products](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/Top%20and%20Bottom%205%20Products%20order%20by%20Qty.pdf)** | Ranked by quantity sold — identifying best and worst performing SKUs |
+| **[Top 5 Countries](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/Top%205%20Countries%20in%202021.pdf)** | Net sales by country for FY2021 |
+| **[Top 10 Products](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/Top%2010%20Products.pdf)** | Products with highest growth in net sales from FY2020 to FY2021 |
+| **[New Products — FY2021](https://github.com/1vishalk/Excel-Project-Sales-and-Finance-Analytics/blob/main/New%20Products%202021.pdf)** | Products launched in 2021 and their net sales performance |
 
 ---
 
